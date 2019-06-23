@@ -19,7 +19,7 @@ BH1750 SDA --> A4
 BH1750 SCL --> A5
 
 
-The Data Measurement:
+######The Data Measurement:
 
 Temperature: Celcius (˚C)
 
@@ -27,15 +27,11 @@ Brightness: Lux
 
 Moisture: 
 
-| Data | Meaning |
-
-| ------------ | ------------ |
-
-| 0-150 | Dry |
-
-| 150-300 | Wet |
-
-| 300-900 | In water |
+ Data | Meaning 
+ ------------ | ------------ 
+ 0-150 | Dry 
+ 150-300 | Wet|
+ 300-900 | In water 
 
 
 ## Important Info about Moisture Sensor
