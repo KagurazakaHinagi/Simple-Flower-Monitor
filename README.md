@@ -19,7 +19,7 @@ BH1750 SDA --> A4
 BH1750 SCL --> A5
 
 
-###### The Data Measurement:
+**The Data Measurement:**
 
 Temperature: Celcius (˚C)
 
